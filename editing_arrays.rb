@@ -19,7 +19,7 @@ end
 
 def add_colors
   rainbow_colors = ["red", "light_red", "light_yellow"]
-  rainbow_colors.push("Green")
+  rainbow_colors.push("green")
   rainbow_colors.push("blue")
   return rainbow_colors
 end
